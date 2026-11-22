@@ -5,7 +5,7 @@ from fastapi import FastAPI, Header, HTTPException
 app = FastAPI()
 
 REAL_KEY = "78e6adcc9f7f6135d2dcb2cc802f5b444dbf80d7aaf734b61a6e151be37e2004"
-MY_KEY = "MOSEUR007"
+MY_KEY = "moseur777"
 
 @app.get("/")
 def home():
